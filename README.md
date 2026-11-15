@@ -4,9 +4,9 @@
 
 CS student and builder based in Stockholm, focused on **backend and systems engineering**. I'm starting my Master's in Computer and Systems Sciences at Stockholm University, and I like building things that work end to end.
 
-## What I'm working on
+## What I've been working on
 
-- 🏀 **[Inkbound AI](https://github.com/isjasonlin/inkbound-ai)**: co-founded an AI-powered college athletic recruitment platform
+- 🏀 **[Inkbound AI]**: co-founded an AI-powered college athletic recruitment platform
 - 🌐 Web design team member at Systemveterdagan
 - 🎓 MSCS at Stockholm University
 
