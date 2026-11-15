@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Jason 👋
 
 CS student and builder based in Stockholm, focused on **backend and systems engineering**. I'm starting my Master's in Computer and Systems Sciences at Stockholm University, and I like building things that work end to end.
