@@ -29,4 +29,4 @@ English · 中文 · Hokkien · a little Svenska
 - 💼 [LinkedIn](https://linkedin.com/in/is-jason-lin)
 
 ---
-*Currently learning: distributed systems, databases, and how to write better Swedish.*
+*Currently learning: Parallel & Distributed Programming and speaking more Swedish.*
