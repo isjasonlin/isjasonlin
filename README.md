@@ -6,7 +6,7 @@ CS student and builder based in Stockholm, focused on **backend and systems engi
 
 ## What I've been working on
 
-- 🏀 **[Inkbound AI]**: co-founded an AI-powered college athletic recruitment platform
+- 🏀 **Inkbound AI**: co-founded an AI-powered college athletic recruitment platform
 - 🌐 Web design team member at Systemveterdagan
 - 🎓 MSCS at Stockholm University
 
